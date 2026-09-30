@@ -114,13 +114,4 @@ It stores:
 
 ---
 
-## What I want to understand better
-
-- How a real BADI is found and implemented (SPRO / SE18)
-- How Fiori apps connect to ABAP backend via OData services
-- How SAP BTP differs from on-premise — what changes in ABAP Cloud
-- How a real project delivery works — what a junior consultant actually does day 1
-
----
-
 *Last updated: September 2026*
